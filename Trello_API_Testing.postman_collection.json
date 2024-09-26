@@ -10,7 +10,7 @@
 			"name": "Board",
 			"item": [
 				{
-					"name": "Create a Board",
+					"name": "Create Boards",
 					"event": [
 						{
 							"listen": "test",
